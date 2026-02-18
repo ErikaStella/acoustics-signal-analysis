@@ -38,7 +38,7 @@ git clone https://github.com/ErikaStella/acoustic-signal-analysis.git
 pip install -r requirements.txt
 
 4. Open the Jupyter Notebook:
-jupyter notebook notebooks/acoustics_data_display_analysis.ipynb
+jupyter notebook acoustics_data_display_analysis.ipynb
 
 ## 👤 Author
 [Erika Kamga]
