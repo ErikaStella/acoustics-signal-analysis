@@ -32,12 +32,12 @@ To extract and observe dominant frequency components and analyze spectral behavi
 ## 🚀 How to Run
 
 1. Clone the repository:
-git clone https://github.com/yourusername/acoustic-signal-analysis.git
+git clone https://github.com/ErikaStella/acoustic-signal-analysis.git
 
-2. Install dependencies:
+3. Install dependencies:
 pip install -r requirements.txt
 
-3. Open the Jupyter Notebook:
+4. Open the Jupyter Notebook:
 jupyter notebook notebooks/acoustics_data_display_analysis.ipynb
 
 ## 👤 Author
